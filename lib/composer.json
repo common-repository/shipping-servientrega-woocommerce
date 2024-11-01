@@ -1,0 +1,5 @@
+{
+    "require": {
+        "saulmoralespa/servientrega-webservice-php": "^2.0"
+    }
+}
